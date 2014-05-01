@@ -1,0 +1,14 @@
+{
+	"category" : "Pharo3DawnTheme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Pharo3DawnTheme",
+	"pools" : [
+		 ],
+	"super" : "Pharo3DarkTheme",
+	"type" : "normal" }
