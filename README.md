@@ -7,7 +7,7 @@ Based on the refreshing work of Esteban Lorenzano and the heroic Pharo team.
 
 ##Screenshot
 
-![Pharo 3 Dawn Theme Screenshot](sebastianconcept.github.com/dawntheme/img/screenshot.png)
+![Pharo 3 Dawn Theme Screenshot](https://raw.githubusercontent.com/sebastianconcept/Pharo3DawnTheme/master/img/screenshot.png)
 
 
 ###*Pharo Smalltalk
