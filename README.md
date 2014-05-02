@@ -18,15 +18,21 @@ Based on the refreshing work of Esteban Lorenzano and the heroic Pharo team.
         	addRepository: (MCSmalltalkhubRepository         						owner: 'estebanlm'         						project: 'Pharo3DarkTheme').
         	
         Gofer it         	smalltalkhubUser: 'estebanlm' project: 'Pharo3DarkTheme';        	package: 'Pharo3DarkTheme';        	merge.
+ 
+2. After that, evaluate this other piece of code:
 
-2. load the Pharo3DawnTheme package you find in this repo
 
-3. Then evaluate this in a workspace:
-    
-        Pharo3DawnTheme installFullTheme.
-
-4. Say thanks and share your joy with another citizen of the Universe
-     
+        | repo |
+        
+        repo := MCFileTreeGitRepository fromZnUrl: (ZnUrl fromString: 'gitfiletree://github.com/sebastianconcept/Pharo3DawnTheme.git?protocol=https&dir=src&branch=master').
+        Gofer it
+    		repository: repo;
+			package: 'Pharo3DawnTheme';
+			load.
+		
+		(Smalltalk at: #Pharo3DawnTheme) installFullTheme.
+	
+3. Say thanks and share your joy with another citizen of the Multiverse
 
 ###*Pharo Smalltalk
 Getting a fresh Pharo Smalltalk image and its virtual machine is as easy as running in your terminal:
