@@ -13,8 +13,8 @@ dawnStyleTable
  ^ #(
 			"(symbol color [emphasisSymbolOrArray [textStyleName [pixelHeight]]])" 
 			(default 								white)
-			(invalid 								'7c0303' bold)
-			(excessCode 							'7c0303' bold )
+			(invalid 								'EE3F08' bold)
+			(excessCode 							'EE3F08' bold )
 			
 			(comment 								'72725e' italic)
 			(unfinishedComment 				'72725e')
@@ -72,10 +72,10 @@ dawnStyleTable
 			(incompleteBinary 					'E8E2B7' italic) 
 			(incompleteUnary 					'E8E2B7' italic)
 				
-			(undefinedIdentifier 				'7c0303' bold)						
-			(undefinedKeyword 					'7c0303' bold)
-			(undefinedBinary 					'7c0303' bold) 
-			(undefinedUnary 					'7c0303' bold) 
+			(undefinedIdentifier 				'EE3F08' bold)						
+			(undefinedKeyword 					'EE3F08' bold)
+			(undefinedBinary 					'EE3F08' bold) 
+			(undefinedUnary 					'EE3F08' bold) 
 			
 			(patternKeyword 					'729fcf' bold)
 			(patternBinary 						'729fcf' bold)
