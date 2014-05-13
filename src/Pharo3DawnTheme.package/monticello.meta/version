@@ -1,2 +1,2 @@
-(name 'Pharo3DawnTheme-sebastiansastre.2' message 'empty log message' id 'f44f0e2b-6796-47ca-82a9-83d5550f5c3d' date '7 May 2014' time '2:08:43.948492 pm' author 'sebastiansastre' ancestors ((name 'Pharo3DawnTheme-SebastianSastre.1' message 'edited install instructions
-' id '9cb553ae-4fd5-5f37-a601-41269d3eb0e2' date '2 May 2014' time '1:29:57 pm' author 'SebastianSastre' ancestors () stepChildren ())) stepChildren ())
+(name 'Pharo3DawnTheme-sebastiansastre.3' message 'empty log message' id 'e8062f14-8121-4971-bf84-fbef11f04c02' date '13 May 2014' time '6:47:04.47412 am' author 'sebastiansastre' ancestors ((name 'Pharo3DawnTheme-SebastianSastre.1' message 'fixing red for code that doesn''t look good (previous had contrast too low)
+' id 'd82671e0-d175-54b4-be40-d2ea9fda6d69' date '10 May 2014' time '3:36:44 pm' author 'SebastianSastre' ancestors () stepChildren ())) stepChildren ())

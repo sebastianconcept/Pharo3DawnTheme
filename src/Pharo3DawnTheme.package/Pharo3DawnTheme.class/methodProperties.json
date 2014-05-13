@@ -1,15 +1,19 @@
 {
 	"class" : {
-		"baseColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"baseSelectionColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"installFullTheme" : "SebastianSastre 5/2/2014 13:29:57",
-		"lightSelectionColor" : "SebastianSastre 5/2/2014 13:29:57" },
+		"baseColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"baseSelectionColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"installFullTheme" : "SebastianSastre 5/10/2014 15:36:44",
+		"lightSelectionColor" : "SebastianSastre 5/10/2014 15:36:44" },
 	"instance" : {
-		"backgroundColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"buttonSelectedFillStyleFor:" : "SebastianSastre 5/2/2014 13:29:57",
-		"caretColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"secondarySelectionColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"selectionColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"selectionTextColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"textColor" : "SebastianSastre 5/2/2014 13:29:57",
-		"windowActiveFillStyleFor:" : "SebastianSastre 5/2/2014 13:29:57" } }
+		"backgroundColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"buttonSelectedFillStyleFor:" : "SebastianSastre 5/10/2014 15:36:44",
+		"caretColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"menuItemNormalTextColorFor:" : "sebastiansastre 5/13/2014 06:41",
+		"menuItemSelectedFillStyleFor:" : "sebastiansastre 5/13/2014 05:43",
+		"menuItemSelectedTextColorFor:" : "sebastiansastre 5/13/2014 06:15",
+		"scrollbarPressedThumbFillStyleFor:" : "sebastiansastre 5/13/2014 05:57",
+		"secondarySelectionColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"selectionColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"selectionTextColor" : "SebastianSastre 5/10/2014 15:36:44",
+		"textColor" : "sebastiansastre 5/13/2014 06:40",
+		"windowActiveFillStyleFor:" : "SebastianSastre 5/10/2014 15:36:44" } }

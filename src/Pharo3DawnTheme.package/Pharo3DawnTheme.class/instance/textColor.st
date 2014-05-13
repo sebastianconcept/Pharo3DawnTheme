@@ -1,3 +1,4 @@
 accessing colors
 textColor
-	^ Color fromHexString: 'FBFBF6'
+	
+	^ Color fromHexString: 'FCF3D7'
