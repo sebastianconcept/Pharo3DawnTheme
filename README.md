@@ -9,15 +9,26 @@ Based on the refreshing work of Esteban Lorenzano and the heroic Pharo team.
 
 ![Pharo 3 Dawn Theme Screenshot](https://raw.githubusercontent.com/sebastianconcept/Pharo3DawnTheme/master/img/screenshot.png)
 
+*Is your Pharo able to github already?*
+
+        Gofer new 
+            url: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main';
+            configurationOf: 'GitFileTree'; 
+            loadStable.
 
 ##Install instructions
 
 1. Get a Pharo 3 image and run this in a workspace:
     
         MCRepositoryGroup default 
-        	addRepository: (MCSmalltalkhubRepository         						owner: 'estebanlm'         						project: 'Pharo3DarkTheme').
+        	addRepository: (MCSmalltalkhubRepository 
+        						owner: 'estebanlm' 
+        						project: 'Pharo3DarkTheme').
         	
-        Gofer it         	smalltalkhubUser: 'estebanlm' project: 'Pharo3DarkTheme';        	package: 'Pharo3DarkTheme';        	merge.
+        Gofer it 
+        	smalltalkhubUser: 'estebanlm' project: 'Pharo3DarkTheme';
+        	package: 'Pharo3DarkTheme';
+        	merge.
  
 2. After that, evaluate this other piece of code:
 
